@@ -1,5 +1,4 @@
 # NumberGuessingGame
 A Game of Number Guessing
 
-**MORE TO COME**
-**IN PROGRESS**
+**You have 10 tries to guess the correct number. The range is between 1 - 100. Good luck!!**
